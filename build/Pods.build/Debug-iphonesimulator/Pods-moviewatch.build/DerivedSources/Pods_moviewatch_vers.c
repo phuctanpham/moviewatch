@@ -1,0 +1,1 @@
+ const unsigned char Pods_moviewatchVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_moviewatch  PROJECT:Pods-1" "\n"; const double Pods_moviewatchVersionNumber __attribute__ ((used)) = (double)1.;
